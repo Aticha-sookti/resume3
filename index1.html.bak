@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Resume</title>
+    <!-- Meta -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic"
+      rel="stylesheet" type="text/css">
+    <!-- FontAwesome JS-->
+    <script defer="defer" src="assets/fontawesome/js/all.min.js"></script>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <meta name="description" content="สมัครงานตำแหน่งพนักงานขาย">
+    <meta name="keywords" content="อักษรศาสตร์,ศิลปากร,พนักงานขาย,พนักงานบริการ,นักศึกษาจบใหม่">
+  </head>
+  <body>
+    <div class="wrapper mt-lg-5">
+      <div class="sidebar-wrapper">
+        <div class="profile-container"> <img class="profile" src="assets/images/profile.jpg"
+            alt=""> </div>
+        <div class="container">
+          <ul class="nav">
+            <li class="nav-item"> <a class="nav-link active" aria-current="page"
+                href="https://www.facebook.com/aticha.sooktitipat">facebook</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="https://www.instagram.com/sayhijds/">instagram</a>
+            </li>
+          </ul>
+        </div>
+        <div class="contact-container container-block">
+          <ul class="list-unstyled contact-list">
+            <li class="user"><i class="fa-solid fa-user"></i><a href="">อ ายุ 20
+                ปี</a></li>
+            <li class="email"><i class="fa-solid fa-envelope"></i><a href="mailto:%20atcsttp1@gmail.com">atcsttp1@gmail.com</a></li>
+            <li class="phone"><i class="fa-solid fa-phone"></i><a href="tel:0800744459">080
+                074 4459</a></li>
+            <li class="map"><i class="fa-solid fa-map-pin"></i><a href="">83
+                ถ.เหนือวัง ต.ลำพยา อ.เมือง จ.นครปฐม 73000</a></li>
+          </ul>
+        </div>
+        <div class="education-container container-block">
+          <h2 class="container-block-title">ระดับการศึกษา</h2>
+          <div class="item">
+            <h5 class="meta">โรงเรียนสิรินธรราชวิทลัย</h5>
+            <div class="time">2014-2020</div>
+          </div>
+          <div class="item">
+            <h4 class="degree">คณะอักษรศาสตร์ เอกสารสนเทศและบรรณารักษ์ศาสตร์</h4>
+            <h5 class="meta">มหาวิทยาลัย</h5>
+            <div class="time">2021 - ปัจจุบัน</div>
+          </div>
+        </div>
+        <div class="languages-container container-block">
+          <h2 class="container-block-title">ภาษา</h2>
+          <ul class="list-unstyled interests-list">
+            <li>ภาษาไทย <span class="lang-desc">(ดีเยี่ยม)</span></li>
+            <li>อังกฤษ <span class="lang-desc">(ดี)</span></li>
+          </ul>
+        </div>
+        <div class="interests-container container-block">
+          <h2 class="container-block-title">งานอดิเรก</h2>
+          <ul class="list-unstyled interests-list">
+            <li>ฟังคลิปพูดภาษาอังกฤษ</li>
+            <li>เล่นกีฬา</li>
+            <li>อ่านหนังสือ</li>
+          </ul>
+        </div>
+      </div>
+      <div class="main-wrapper">
+        <section class="section summary-section">
+          <div class="head-txt">
+            <h1 class="name">อธิชา สุขธิติพัฒน์</h1>
+            <h2 class="sub-name">นักศึกษา</h2>
+          </div>
+          <hr>
+          <h2 class="section-title"><span class="icon-holder"><i class="fa-solid fa-user"></i></span>จุด
+            มุ่งหมายในการทำงาน</h2>
+          <div class="summary">
+            <p>ต้องการสมัครงานในตำแหน่ง พนักงานขาย พนักงานบริการ
+              เพื่อนำความรู้และทักษะ
+              และประสบการณ์ที่มีมาใช้ในการทำงานเพื่อความเจริญเติบโตของหน่วยงาน
+              และบริษัท</p>
+          </div>
+        </section>
+        <hr>
+        <section class="section experiences-section">
+          <h2 class="section-title"><span class="icon-holder"><i class="fa-solid fa-briefcase"></i></span>ประสบการณ์
+            ทำงาน</h2>
+          <div class="item">
+            <div class="meta">
+              <div class="upper-row">
+                <h3 class="job-title">ขายของร้านขายของชำ</h3>
+                <div class="time">2018 - ปัจจุบัน</div>
+              </div>
+              <div class="company">ธุรกิจส่วนตัว</div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="meta">
+              <div class="upper-row">
+                <h3 class="job-title">Part-time</h3>
+                <div class="time">2020</div>
+              </div>
+              <div class="company">ร้านอาหาร Su steak</div>
+            </div>
+          </div>
+        </section>
+        <hr>
+        <section class="skills-section section">
+          <h2 class="section-title"><span class="icon-holder"><i class="fa-solid fa-rocket"></i></span>ทักษะ
+            &amp; ความสามารถ</h2>
+          <div class="skillset">
+            <div class="item">
+              <h3 class="level-title">มีความสามารถด้านการสื่อสาร</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <!--//item-->
+            <div class="item">
+              <h3 class="level-title">ใช้ภาษาไทยได้ถูกต้อง</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <!--//item-->
+            <div class="item">
+              <h3 class="level-title">Microsoft Word</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <!--//item-->
+            <div class="item">
+              <h3 class="level-title">Microsoft Excel</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <!--//item-->
+            <div class="item">
+              <h3 class="level-title">Photoshop</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <!--//item-->
+            <div class="item">
+              <h3 class="level-title">ความสามารถในงานบริการ</h3>
+              <div class="progress level-bar">
+                <div class="progress-bar theme-progress-bar" role="progressbar"
+                  style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12"> <button type="button" class="btn btn-dark"
+                  data-bs-toggle="modal" data-bs-target="#exampleModal">Click
+                  here</button>
+                <div class="modal" id="exampleModal" tabindex="-1">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModal"> หมายเหตุ </h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                          aria-label="Close"></button> </div>
+                      <div class="modal-body">
+                        <p> ข้อมุลปี 2566.</p>
+                      </div>
+                      <div class="modal-footer"> <button type="button" class="btn btn-secondary"
+                          data-bs-dismiss="modal">Close</button> <button type="button"
+                          class="btn btn-primary">Save changes</button> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--//item--> </div>
+        </section>
+        <!--//skills-section--> </div>
+      <!--//main-body--> </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script>
+  </body>
+</html>
